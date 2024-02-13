@@ -1,0 +1,54 @@
+.head{
+    padding: 300px;
+}
+
+.container{
+    position: relative;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    width: 500px;
+    margin-left: 300px;
+    background-color: pink;
+    background-image: url(img/gallows.png);
+    background-repeat: no-repeat;
+
+}
+
+.img1{
+    top: 150px;
+    margin-left: 105px;
+    position: absolute;
+}
+
+.img2{
+    top: 252px;
+    position: absolute;
+    margin-left: 104px;
+}
+
+.img3{
+    position: absolute;
+    top: 250px;
+    margin-left: 38px;
+}
+
+.img4{
+    position: absolute;
+    top: 250px;
+    margin-left: 173px;
+}
+
+.img5{
+    position: absolute;
+    bottom: 39px;
+    margin-left: 41px;
+}
+
+.img6{
+    position: absolute;
+    bottom: 39px;
+    margin-left: 167px;
+}
